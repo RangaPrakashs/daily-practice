@@ -1,7 +1,7 @@
 # daily-practice
 A place to put all my code for the next 180 days
 
-1. Inspired by John Resig Post [here](https://johnresig.com/blog/write-code-every-day/)  and [Jenniferdewalt] (https://jenniferdewalt.com/)
+1. Inspired by John Resig Post [here](https://johnresig.com/blog/write-code-every-day/)  and [Jenniferdewalt](https://jenniferdewalt.com/)
 
 Understanding web browser and javascript without sustained practice is an impossible task.
 my level of understanding is significantly  low comparatively to other devs in the field at the current experience level.
