@@ -18,4 +18,4 @@ This is my humble attempt to re-create what john resig and
 
 The idea here is to be a free form version of practice, rather than a orderly list which makes it a work rather than an enjoyment.
 
-The Day Is One is the hardest.
+The Day Is One  and is the hardest.
